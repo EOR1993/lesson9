@@ -1,0 +1,60 @@
+
+.bg-1 {
+
+  background: url("../img/gory-ozero-el-voda.jpg") no-repeat;
+  background-size: 100%;
+  background-blend-mode: multiply;
+  background-color: #666464;
+  background-attachment:  fixed;
+}
+.bg-2 {
+
+  background: url("../img/57ed72998de4dbd23223cecab7dbb76d.jpg") no-repeat;
+  background-size: 100%;
+  background-blend-mode: multiply;
+  background-color: #666464;
+  background-attachment:  fixed;
+}
+.mgb-30{
+  margin-bottom: 20px;
+}
+
+.mgt-1{
+  margin-top: 100px;
+}
+.mgt-15{
+  margin-top: 150px;
+}
+.mgt-20{
+  margin-top: 200px;
+}
+.mgt-25{
+  margin-top: 250px;
+}
+.mgb-1{
+    margin-bottom: 100px;
+}
+.mgb-15{
+  margin-bottom: 150px;
+}
+.mgb-20{
+  margin-bottom: 200px;
+}
+
+
+.mgb-25{
+  margin-bottom: 250px;
+}
+
+
+.mb-5{
+  margin-bottom: 300px !important;
+}
+
+.mt-5{
+  margin-top: 300px !important;
+}
+
+.card{
+  border: none;
+}
